@@ -9,6 +9,8 @@ class DataDB extends Data implements DataDriver {
            'Wiersz 1',
            'Wiersz 2',
            'Wiersz 3',
+		   'Wiersz 4',
+		   'Wiersz 5',
         ));
     }
 }
